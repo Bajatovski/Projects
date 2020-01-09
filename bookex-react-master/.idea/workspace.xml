@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3e7f9f7-e371-447a-b681-1518464d4148" name="Default Changelist" comment="registration method fixed" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Albin Baftijarovski &lt;baftijarovski.a@outlook.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WABUlTjD3q5ByOXVddirMDCFju" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Albin\Desktop\eBook Exchange\ebook-react\src\Components\NewsTable" />
+      <recent name="C:\Users\Albin\Desktop\eBook Exchange\ebook-react\src\Components\Pages\Categories" />
+      <recent name="C:\Users\Albin\Desktop\eBook Exchange\ebook-react\src\Components\Pages" />
+      <recent name="C:\Users\Albin\Desktop\eBook Exchange\ebook-react\src\Components\Layout" />
+      <recent name="C:\Users\Albin\Desktop\eBook Exchange\ebook-react\src\Components\App" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3e7f9f7-e371-447a-b681-1518464d4148" name="Default Changelist" comment="" />
+      <created>1558107822075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558107822075</updated>
+      <workItem from="1558107826102" duration="252000" />
+      <workItem from="1558108356964" duration="61000" />
+      <workItem from="1558133394944" duration="3119000" />
+      <workItem from="1560614354651" duration="7318000" />
+      <workItem from="1560898515782" duration="5914000" />
+      <workItem from="1560974287681" duration="4101000" />
+      <workItem from="1561061936659" duration="186000" />
+      <workItem from="1561063315492" duration="2429000" />
+      <workItem from="1561154929550" duration="916000" />
+      <workItem from="1561293473981" duration="46000" />
+      <workItem from="1561293660408" duration="85000" />
+      <workItem from="1561411183039" duration="4001000" />
+      <workItem from="1561725336341" duration="414000" />
+      <workItem from="1561826013264" duration="1369000" />
+      <workItem from="1562265126245" duration="406000" />
+      <workItem from="1562284192383" duration="5546000" />
+      <workItem from="1562337897551" duration="10329000" />
+      <workItem from="1562367222072" duration="3771000" />
+      <workItem from="1562417337958" duration="31600000" />
+      <workItem from="1562545330866" duration="8360000" />
+      <workItem from="1562555098921" duration="2018000" />
+      <workItem from="1562609659712" duration="4997000" />
+      <workItem from="1562626735643" duration="4845000" />
+      <workItem from="1562632528589" duration="1231000" />
+      <workItem from="1562634253428" duration="13000" />
+      <workItem from="1562635584920" duration="189000" />
+      <workItem from="1562781397636" duration="7801000" />
+      <workItem from="1562796066536" duration="2496000" />
+      <workItem from="1578582538701" duration="109000" />
+    </task>
+    <task id="LOCAL-00001" summary="small changes">
+      <created>1562633572903</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562633572903</updated>
+    </task>
+    <task id="LOCAL-00002" summary="bug fixed">
+      <created>1562635755048</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562635755048</updated>
+    </task>
+    <task id="LOCAL-00003" summary="user authentication added">
+      <created>1562791916897</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562791916897</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="small changes" />
+    <MESSAGE value="bug fixed" />
+    <MESSAGE value="user authentication added" />
+    <MESSAGE value="registration method fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="registration method fixed" />
+  </component>
+</project>
